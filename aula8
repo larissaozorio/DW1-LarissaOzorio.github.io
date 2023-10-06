@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        .div1{
+            background-color: rgb(166, 224, 166);
+            line-height: 1.8;}
+
+    </style>
+<body>
+
+    <p><h1>Praticando 1 - Formatação de texto</h1></p>
+
+    <div class="div1">
+        <h2 style="text-align: center; text-transform: capitalize;">parte 1 - propriedade de textos</h2>
+        <h3 style="text-decoration: underline; text-indent: 5%;">Color</h3>
+    </div>
+    <h3 style="text-indent: 5%;">A propriedade <span style="background-color: yellow">color</span> é usada para definir a cor do texto</h3>
+    
+    <div class="div1"><p style="color: blue;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum aperiam sint dolorem molestias. Voluptas nesciunt dignissimos id similique, nisi vel, explicabo in distinctio sint repellat, vitae eum adipisci nam ad?</p>
+
+    <p style="color: rgb(209, 60, 232);">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum aperiam sint dolorem molestias. Voluptas nesciunt dignissimos id similique, nisi vel, explicabo in distinctio sint repellat, vitae eum adipisci nam ad?</p>
+
+    <p style="color: orange;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum aperiam sint dolorem molestias. Voluptas nesciunt dignissimos id similique, nisi vel, explicabo in distinctio sint repellat, vitae eum adipisci nam ad?</p>
+
+    <h3 style="text-decoration: underline; text-indent: 5%;">Text-align</h3>
+        </div>
+
+    <h3 style="text-indent: 5%;">A propriedade <span style="background-color: yellow">text-align</span> é usada para definir o alinhamento horizontal de um texto.</h3>
+
+    <div class="div1"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum aperiam sint dolorem molestias. Voluptas nesciunt dignissimos id similique, nisi vel, explicabo in distinctio sint repellat, vitae eum adipisci nam ad?</p>
+
+    <p style="text-indent: 5%;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum aperiam sint dolorem molestias. Voluptas nesciunt dignissimos id similique, nisi vel, explicabo in distinctio sint repellat, vitae eum adipisci nam ad?</p>
+
+    <p style="text-indent: 10%;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum aperiam sint dolorem molestias. Voluptas nesciunt dignissimos id similique, nisi vel, explicabo in distinctio sint repellat, vitae eum adipisci nam ad?</p>
+
+    </div>
+   
+</body>
+</html>
